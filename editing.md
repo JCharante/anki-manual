@@ -245,6 +245,11 @@ When pasting text, Anki will strip most formatting by default. If you
 hold down the shift key while pasting, Anki will preserve more
 formatting.
 
+When pasting text, Anki will keep most formatting by default. If you
+hold down the shift key while pasting, Anki will strip most of the
+formatting. Under Preferences, you can toggle "Paste without shift
+key strips formatting" to modify the default behavior.
+
 ## Cloze Deletion
 
 'Cloze deletion' is the process of hiding one or more words in a
